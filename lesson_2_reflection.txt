@@ -4,5 +4,9 @@ the .git directory is created. I need it to keep track of the changes
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area is where the file become trackable and ready to be committed. The repository includes the working area, the staging area and the versions
 
+How can you use the staging area to make sure you have one commit per logical change?
+I stage the changes that logically fit together and then commit them
+
+
 
 
