@@ -7,6 +7,9 @@ the staging area is where the file become trackable and ready to be committed. T
 How can you use the staging area to make sure you have one commit per logical change?
 I stage the changes that logically fit together and then commit them
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branching is helpfull to experiment new features that are still unofficial. Once tested these changes can be merged in the master.
+
 
 
 
