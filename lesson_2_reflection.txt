@@ -16,6 +16,7 @@ the diagrams allow to visualize the logic and temporal sequence of the commits a
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 is a branch which includes all the commits of the other branches 
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+it's handy and simplifies the merging process, sometime can become messy 
 
 
