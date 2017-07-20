@@ -13,5 +13,9 @@ Branching is helpfull to experiment new features that are still unofficial. Once
 How do the diagrams help you visualize the branch structure?
 the diagrams allow to visualize the logic and temporal sequence of the commits and to spot the commits that are not reacheable (because not part of a branch)
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+is a branch which includes all the commits of the other branches 
+
+
 
 
